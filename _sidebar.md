@@ -1,3 +1,2 @@
 - [Intro](README)
-- [Example Second Page](second-page)
-- [ProPresenter Guide](propresenter-guide)
+- [ProPresenter Guide](flc-propresenter-guide.md)
