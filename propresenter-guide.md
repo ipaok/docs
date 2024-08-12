@@ -34,6 +34,7 @@ This guide will be a condensed version of ProPresenter’s official guide and in
     ![](img/2024-08-12-17-52-59.png)
     
 4. On the Library panel  (located on the left side of the window) select Sunday Services, click the + button and select “Planning Center Service…”
+    
     ![](img/2024-08-12-17-53-18.png)
     ![](img/2024-08-12-17-53-31.png)
     
