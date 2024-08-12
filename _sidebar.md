@@ -1,2 +1,3 @@
 - [Intro](README)
-- [ProPresenter Guide](flc-propresenter-guide.md)
+- [FLC ProPresenter Guide](flc-propresenter.md)
+- [FLC Livestream Guide](flc-livestream.md)
