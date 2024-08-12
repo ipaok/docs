@@ -163,7 +163,6 @@ This guide will be a condensed version of ProPresenter’s official guide and in
 ## FAQs
 
 - What’s a Library and a Playlist?
-    ![](img/2024-08-12-18-02-54.png)
-    
     - The "Library" is a section where you store and organize all your media files, such as slides, images, videos, and audio files. It acts as a central repository for all your presentation assets.
     - A "playlist" in ProPresenter is a collection of media items that are arranged in a specific order for the Sunday Service. Playlists can include slides, videos, songs, or any other type of media supported by ProPresenter. They provide a structured way to organize and present content during Sunday Services.
+    ![](img/2024-08-12-18-02-54.png)
