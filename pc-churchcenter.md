@@ -62,7 +62,7 @@
 
 #### **Step 7: Stay Connected**
 - **Notifications:** Enable push notifications to receive updates about church activities, event reminders, and more.
-- **Contact Us:** Use the app to reach out to church staff or access our location and service times.
+- **Contact Us:** Use the app to reach out to church staff.
 
 
 #### **Support**
