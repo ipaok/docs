@@ -21,6 +21,7 @@
 
 ## Planning Center Training
 #### [Services](pc-services.md)
+#### [Church Center](pc-churchcenter.md)
 
 ## Worship
 #### [Worship Leader Checklist](worship-checklist.md)
