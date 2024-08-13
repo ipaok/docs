@@ -66,7 +66,7 @@
 
 
 #### **Support**
-If you encounter any issues or need help setting up the Church Center app, please contact our support team at [support@International Pentecostal Assembly.org](mailto:support@International Pentecostal Assembly.org), or visit our welcome desk during any service.
+If you encounter any issues or need help setting up the Church Center app, please contact our media team at [media@ipaok.org](mailto:media@ipaok.org), or reach out to the media leadership at any time.
 
 
 Welcome to International Pentecostal Assembly on Church Center! We’re excited to have you join our community and stay connected through this powerful tool.
