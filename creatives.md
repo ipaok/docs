@@ -42,4 +42,4 @@ As we work together to define our style guide, we encourage everyone to contribu
 
 ## **Conclusion**
 
-We're excited to have you on board as part of the Creative Team at [Church Name]! By leveraging the power of Canva and collaborating on the development of our style guide, we're confident that we'll continue to produce impactful and meaningful designs that inspire and uplift others. If you have any questions or suggestions, please don't hesitate to reach out to [Team Leader/Point of Contact]. Let's embark on this creative journey together!
+We're excited to have you on board as part of the Creative Team! By leveraging the power of Canva and collaborating on the development of our style guide, we're confident that we'll continue to produce impactful and meaningful designs that inspire and uplift others. If you have any questions or suggestions, please don't hesitate to reach out to [Team Leader/Point of Contact]. Let's embark on this creative journey together!
