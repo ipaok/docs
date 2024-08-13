@@ -14,8 +14,8 @@
 
 ## Media Team Docs
 #### [FLC Graphics](flc-propresenter.md)
-- [Adding Songs](adding-songs-propresenter.md)
-- [Displaying Bible Verses](pp7-bibleverses.md)
+##### [Adding Songs](adding-songs-propresenter.md)
+##### [Displaying Bible Verses](pp7-bibleverses.md)
 #### [FLC Live Stream](flc-livestream.md)
 #### [FLC Sound](flc-sound.md)
 

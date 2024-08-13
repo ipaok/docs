@@ -4,6 +4,7 @@
 - [FLC Livestream Guide](flc-livestream.md)
 - [FLC ProPresenter Guide](flc-propresenter.md)
     - [ProPresenter - Adding Songs](adding-songs-propresenter.md)
+    - [ProPresenter - Displaying Bible Verses](pp7-bibleverses.md)
 - [FLC Audio Guide](flc-sound.md)
 - [Graphic Design](creatives.md)
 - [Networking](networking.md)
