@@ -1,4 +1,5 @@
 - [Intro](README)
+- [Church Center](pc-churchcenter.md)
 - [Email Guide](ipa-email.md)
 - [FLC Livestream Guide](flc-livestream.md)
 - [FLC ProPresenter Guide](flc-propresenter.md)
