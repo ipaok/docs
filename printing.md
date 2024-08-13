@@ -1,14 +1,14 @@
 # Printing at Church
 
-### Connecting to IPA Guest WiFi
+## Connect to IPA Guest WiFi
 
-1. **On your phone, Mac, or Windows laptop:**
-    - Open your device's WiFi settings.
-    - Select the network named `I**PA-Guest**`
-    - When prompted, enter the password: `Heaven43.`
-    - Wait for your device to connect to the network.
+### On your phone, Mac, or Windows laptop
+- Open your device's WiFi settings.
+- Select the network named `**IPA-Guest**`
+- When prompted, enter the password: `Heaven43.`
+- Wait for your device to connect to the network.
 
-### Printing Using AirPrint
+## Printing Using AirPrint
 
 ### From an iPhone or iPad
 
@@ -51,7 +51,7 @@
 5. **Print:**
     - Click **Print**.
 
-### Troubleshooting
+## Troubleshooting
 
 - Check that the printer is turned on and has paper and ink.
 - Restart your device and printer if they are not appearing in the list.
