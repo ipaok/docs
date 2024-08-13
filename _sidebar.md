@@ -8,3 +8,4 @@
 - [Networking](networking.md)
 - [Photography](photography.md)
 - [Printing](printing.md)
+- [Worship Leader Checklist](worship-checklist.md)
