@@ -8,7 +8,7 @@
 #### [Graphic Design](creatives.md)
 
 ## General Docs
-#### [Church Center](pc-churchcenter.md)
+#### [Church Center](churchcenter.md)
 #### [Email Guide](ipa-email.md)
 #### [Printing](printing.md)
 

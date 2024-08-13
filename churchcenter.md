@@ -1,4 +1,4 @@
-### Church Center App Setup Guide for International Pentecostal Assembly
+### Church Center App Setup Guide
 
 > Welcome to International Pentecostal Assembly! To stay connected with our church community and access all our resources easily, we encourage you to download and set up the Church Center app. Follow these simple steps to get started:
 
