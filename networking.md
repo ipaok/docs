@@ -85,7 +85,7 @@ For example, a firewall rule might allow web traffic (HTTP/HTTPS) from the inter
 - **Default** (Unused, this is there as a breakglass. Nobody should ever use this)
     - **Subnet**: 192.168.1.0/24
     - **Available** **Hosts**: 254
-- IPA Guest:
+- **IPA Guest**:
     - **Subnet**: 192.168.4.0/24
     - **Available Hosts**: 254
 - **IPA IoT**:
