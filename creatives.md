@@ -2,11 +2,11 @@
 
 Welcome to the Creative Team at IPA! We're thrilled to have you join us in our mission to spread the message through creative and engaging content. As part of our team, you'll play a crucial role in visually communicating the values and spirit of our church to our community and beyond.
 
-## **Introduction to Canva**
+## Introduction to Canva
 
 At IPA, we utilize Canva as our primary design tool. Canva is a user-friendly platform that empowers users to create beautiful and professional-looking designs with ease, making it ideal for both beginners and experienced designers. Whether you're designing social media graphics, flyers, presentations, or other promotional materials, Canva offers a wide range of templates, graphics, and tools to bring your ideas to life.
 
-### **Getting Started with Canva**
+### Getting Started with Canva
 
 If you're new to Canva, don't worry! Here are some resources to help you get started:
 
@@ -16,7 +16,7 @@ If you're new to Canva, don't worry! Here are some resources to help you get sta
 4. **Practice Projects**: Experiment with creating simple designs to get a feel for how Canva works. Feel free to explore different design elements, layouts, and styles.
 5. **Ask for Help**: Don't hesitate to reach out to fellow team members or leadership if you have any questions or need assistance with Canva.
 
-## **Recap of Last Year's Projects**
+## Recap of Last Year's Projects
 
 Before we delve into our future projects, let's take a moment to reflect on some of the key design projects our team worked on last year:
 
@@ -26,7 +26,7 @@ Before we delve into our future projects, let's take a moment to reflect on some
 4. **Branding Materials**: Assisted in the creation of branding materials, including logos, color palettes, and typography choices.
 5. **Printed Materials**: Designed printed materials such as brochures, banners, and signage for use within our church events.
 
-## **Developing a Style Guide**
+## Developing a Style Guide
 
 While we've produced some designs, it's essential to establish a cohesive visual identity for IPA. A style guide will serve as a roadmap for maintaining consistency across all our design projects. As we embark on this journey, here are some elements to consider when developing our style guide:
 
@@ -40,6 +40,6 @@ While we've produced some designs, it's essential to establish a cohesive visual
 
 As we work together to define our style guide, we encourage everyone to contribute their ideas and insights to create a visual identity that truly represents IPA and resonates with our community.
 
-## **Conclusion**
+## Conclusion
 
 We're excited to have you on board as part of the Creative Team! By leveraging the power of Canva and collaborating on the development of our style guide, we're confident that we'll continue to produce impactful and meaningful designs that inspire and uplift others. If you have any questions or suggestions, please don't hesitate to reach out to [Team Leader/Point of Contact]. Let's embark on this creative journey together!
