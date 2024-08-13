@@ -15,3 +15,8 @@
 #### [FLC Sound](flc-sound.md)
 ## Networking
 #### [UniFi](networking.md)
+## Worship
+### [Worship Leader Checklist](worship-checklist.md)
+### [Planning Center - Add Song](https://pcoservices.zendesk.com/hc/en-us/articles/204262354-Add-a-Song-to-the-Library#UUID-c89d101b-3e10-2f62-cfb6-fc9c02246ffa_section-idm4636217822560032697080497132)
+### [Add a New Arrangement](https://pcoservices.zendesk.com/hc/en-us/articles/360024797073-Add-or-Edit-an-Arrangement)
+### [Add or edit a key](https://pcoservices.zendesk.com/hc/en-us/articles/360024795773-Add-or-Edit-a-Key)
