@@ -8,6 +8,7 @@
 #### [Graphic Design](creatives.md)
 
 ## General Docs
+#### [Church Center](pc-churchcenter.md)
 #### [Email Guide](ipa-email.md)
 #### [Printing](printing.md)
 
@@ -21,7 +22,6 @@
 
 ## Planning Center Training
 #### [Services](pc-services.md)
-#### [Church Center](pc-churchcenter.md)
 
 ## Worship
 #### [Worship Leader Checklist](worship-checklist.md)
