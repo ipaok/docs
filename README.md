@@ -2,20 +2,16 @@
 
 > Welcome to the IPAOK Documentation Hub! This site is your go-to resource for all things related to our church's operations, ministries, and technology. Whether you're a new volunteer, seasoned leader, or just looking to get more involved, you'll find detailed guides, best practices, and helpful tips to support your journey. Our goal is to equip you with the knowledge and tools you need to serve effectively and grow in your role. Explore the sections below to get started, and thank you for being a vital part of our church community!
 
-### Media - [Graphics](flc-propresenter.md)
-The Media Graphics Team plays a crucial role in creating a seamless and engaging worship experience. This team is responsible for running ProPresenter, the presentation software that displays lyrics, sermon notes, videos, and other visual elements during services. They ensure that all media is accurately and timely projected onto screens, coordinating closely with the worship team, speakers, and other teams. The Computer Graphics Team also handles any on-the-fly adjustments and transitions, helping to create a visually cohesive and distraction-free environment that enhances the church's worship experience. Their work is vital to keeping services running smoothly and ensuring that the message is communicated effectively through visual media.
-
-### Media - [Live Stream](flc-livestream.md)
-The Live Stream Team is dedicated to extending our worship services beyond the physical walls of the church, reaching members and visitors wherever they are. This team is responsible for managing the live broadcast of services, ensuring high-quality video and audio feeds are delivered in real-time to online platforms. They operate cameras, manage audio levels, switch between different video sources, and coordinate with other tech teams to produce a professional and engaging live stream. The Live Stream Team also troubleshoots any technical issues that arise during the broadcast, ensuring a smooth and uninterrupted viewing experience for our online audience. Their work is essential in connecting with those who can't attend in person, allowing them to participate in worship and stay connected with the church community.
-
-### Media - [Sound](flc-sound.md)
-The Sound Team is vital to creating an worship environment by managing all aspects of audio during the services. This team is responsible for setting up, mixing, and balancing sound levels for the worship band, speakers, and any other audio elements. They ensure that every word and note is clear and well-balanced, enhancing the overall experience for both in-person and online attendees. The Sound Team operates the soundboard, manages microphones, monitors, and other audio equipment, and works closely with the worship and tech teams to respond to any on-the-spot adjustments needed during the service. Their expertise in audio engineering ensures that the message and music are delivered with clarity and excellence, making it possible for everyone to fully engage in worship.
-
-### Creatives - [Social Media](creatives.md)
-The Social Media Team is key to engaging with both our church and the broader community throughout the week. This team is responsible for creating, curating, and posting content on our church's social media platforms, including Facebook, Instagram, Twitter, and more. They share updates about upcoming events, inspiring messages, sermon highlights, worship clips, and other engaging content that reflects the heart and mission of our church. The Social Media Team also interacts with followers, responds to comments and messages, and monitors engagement to ensure our online presence is vibrant and welcoming. By using social media effectively, this team helps to keep the church community connected, informed, and inspired, while also reaching out to new audiences and inviting them to be part of our church family. Their work is essential in spreading the message of our church beyond Sunday services, fostering a sense of community, and sharing the love of Christ in the digital space.
-
-### Creatives - Graphic Design
-The Graphic Design Team plays a pivotal role in visually communicating the church's message and mission. This team is responsible for creating eye-catching and meaningful designs for a variety of church materials, including sermon series graphics, event posters, social media content, and more. They work closely with ministry leaders to ensure that all visual elements align with the church's branding and effectively convey the intended message. The Graphic Design Team combines creativity with strategic thinking to craft designs that not only look great but also resonate with the congregation and the broader community. Their work helps to create a cohesive visual identity for the church, making all communications—from digital to print—consistent, engaging, and impactful. Through their designs, they enhance the overall worship experience and help to draw people into the life and ministry of the church.
-
-### Networking - [Unifi](networking.md)
-The Networking Team plays a critical role in maintaining our church's digital infrastructure, ensuring that all technology systems are connected and reliable. This team manages the church’s internal network, including Wi-Fi, internet connectivity, and the integration of various devices and systems. They work quietly behind the scenes to troubleshoot network issues, maintain security, and optimize performance, enabling other tech teams—like live stream, sound, and computer graphics—to function smoothly. The Networking Team makes sure that everyone, from staff to volunteers and attendees, has consistent access to the digital tools needed for a seamless worship experience, keeping our church connected and running efficiently.
+## Table of Contents
+- **Creatives**
+    - [Photography](photography.md)
+    - [Graphic Design](creatives.md)
+- **General Docs**
+    - [Email Guide](ipa-email.md)
+    - [Printing](printing.md)
+- **Media Team Docs**
+    - [FLC Graphics](flc-propresenter.md)
+    - [FLC Live Stream](flc-livestream.md)
+    - [FLC Sound](flc-sound.md)
+- **Networking**
+    - [Unifi](networking.md)

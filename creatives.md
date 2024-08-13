@@ -1,4 +1,4 @@
-# Creative Team Onboarding
+# Graphic Design
 
 Welcome to the Creative Team at IPA! We're thrilled to have you join us in our mission to spread the message through creative and engaging content. As part of our team, you'll play a crucial role in visually communicating the values and spirit of our church to our community and beyond.
 
