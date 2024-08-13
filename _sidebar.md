@@ -2,5 +2,6 @@
 - [Email Guide](ipa-email.md)
 - [FLC Livestream Guide](flc-livestream.md)
 - [FLC ProPresenter Guide](flc-propresenter.md)
+    - [ProPresenter - Adding Songs](adding-songs-propresenter.md)
 - [FLC Audio Guide](flc-sound.md)
-- [ProPresenter - Adding Songs](adding-songs-propresenter.md)
+    

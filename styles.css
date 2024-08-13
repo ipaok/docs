@@ -1,0 +1,9 @@
+.sidebar {
+    left: auto;
+    right: 0;
+}
+
+.content {
+    margin-left: 0;
+    margin-right: 300px; /* Adjust this value according to your sidebar width */
+}
