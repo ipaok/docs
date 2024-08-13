@@ -2,10 +2,10 @@
 
 > Welcome to the IPAOK Documentation Hub! This site is your go-to resource for all things related to our church's operations, ministries, and technology. Whether you're a new volunteer, seasoned leader, or just looking to get more involved, you'll find detailed guides, best practices, and helpful tips to support your journey. Our goal is to equip you with the knowledge and tools you need to serve effectively and grow in your role. Explore the sections below to get started, and thank you for being a vital part of our church community!
 
-### Media - Graphics
+### Media - [Graphics](flc-propresenter.md)
 The Media Graphics Team plays a crucial role in creating a seamless and engaging worship experience. This team is responsible for running ProPresenter, the presentation software that displays lyrics, sermon notes, videos, and other visual elements during services. They ensure that all media is accurately and timely projected onto screens, coordinating closely with the worship team, speakers, and other teams. The Computer Graphics Team also handles any on-the-fly adjustments and transitions, helping to create a visually cohesive and distraction-free environment that enhances the church's worship experience. Their work is vital to keeping services running smoothly and ensuring that the message is communicated effectively through visual media.
 
-### Media - Live Stream
+### Media - [Live Stream](flc-livestream.md)
 The Live Stream Team is dedicated to extending our worship services beyond the physical walls of the church, reaching members and visitors wherever they are. This team is responsible for managing the live broadcast of services, ensuring high-quality video and audio feeds are delivered in real-time to online platforms. They operate cameras, manage audio levels, switch between different video sources, and coordinate with other tech teams to produce a professional and engaging live stream. The Live Stream Team also troubleshoots any technical issues that arise during the broadcast, ensuring a smooth and uninterrupted viewing experience for our online audience. Their work is essential in connecting with those who can't attend in person, allowing them to participate in worship and stay connected with the church community.
 
 ### Media - Sound
