@@ -5,4 +5,4 @@
     - [ProPresenter - Adding Songs](adding-songs-propresenter.md)
 - [FLC Audio Guide](flc-sound.md)
 - [Networking](networking.md)
-- [Creatives](creative Team.md)
+- [Creatives](creatives.md)
