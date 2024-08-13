@@ -1,3 +1,4 @@
 - [Intro](README)
+- [Email Guide](ipa-email.md)
 - [FLC ProPresenter Guide](flc-propresenter.md)
 - [FLC Livestream Guide](flc-livestream.md)
