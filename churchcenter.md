@@ -8,6 +8,7 @@
    - Search for “Church Center” in the search bar.
    - Find the app with the Church Center logo (a green and white icon) and tap “Get” or “Download.”
    - Wait for the app to download and install.
+   ![](img/2024-08-25-09-16-40.png)
 
 2. **For Android Users:**
    - Open the Google Play Store on your Android device.
@@ -26,6 +27,8 @@
    - On the home screen, tap “Get Started.”
    - You’ll be asked to “Find Your Church.” Enter “International Pentecostal Assembly” in the search bar.
    - You can also enter our zip code “73099” to narrow down the search.
+   ![](img/2024-08-25-09-18-14.png)
+
 
 2. **Select International Pentecostal Assembly:**
    - When International Pentecostal Assembly appears in the search results, tap on it.
@@ -35,32 +38,21 @@
    - Once you’ve selected International Pentecostal Assembly, tap “This is my church” to confirm.
 
 
-#### **Step 4: Log In or Create an Account**
+#### **Step 4: Log In**
 1. **Log In:**
-   - If you already have an account, enter your phone number or email address associated with your profile.
+   - You should already have an account, enter your phone number or email address associated with your profile.
    - You’ll receive a login code via text message or email. Enter this code to log in.
+   ![](img/2024-08-25-09-19-12.png)
 
-2. **Create an Account:**
-   - If you’re new, tap “Sign Up” to create an account.
-   - Follow the prompts to enter your name, email, and phone number.
-   - Once your account is created, you’ll be logged in automatically.
-
-
-#### **Step 5: Set Up Your Profile**
-1. After logging in, tap on the profile icon in the upper right corner.
-2. Update your profile information, including your name, contact details, and a profile picture if desired.
-3. Make sure your information is accurate to stay updated with International Pentecostal Assembly’s announcements and events.
-
-
-#### **Step 6: Explore Church Center Features**
-1. **Home:** View upcoming events, announcements, and featured content from International Pentecostal Assembly.
-2. **Give:** Easily and securely give tithes and offerings directly through the app.
-3. **Events:** Browse and register for upcoming events and gatherings at International Pentecostal Assembly.
+#### **Step 5: Explore Church Center Features**
+1. **Home:** Featured content and Important Links.
+2. **Give:** Easily and securely give tithes and offerings directly through the app or Zelle. 
+3. **Events:** Browse and register for upcoming events and gatherings.
 4. **Groups:** Join small groups or ministries to connect with others in the church community.
-5. **Check-In:** Check in for services and events to let us know you’re attending.
+5. **Announcements:** View upcoming events, announcements, and other important information. 
+![](img/2024-08-25-09-20-15.png)
 
-
-#### **Step 7: Stay Connected**
+#### **Step 6: Stay Connected**
 - **Notifications:** Enable push notifications to receive updates about church activities, event reminders, and more.
 - **Contact Us:** Use the app to reach out to church staff.
 
@@ -68,5 +60,15 @@
 #### **Support**
 If you encounter any issues or need help setting up the Church Center app, please contact our media team at [media@ipaok.org](mailto:media@ipaok.org), or reach out to the media leadership at any time.
 
-
-Welcome to International Pentecostal Assembly on Church Center! We’re excited to have you join our community and stay connected through this powerful tool.
+#### Sharing Church Directory
+1. **Directory** Go to the Directory tab within Church Center.
+   ![](img/2024-08-25-09-24-09.png)
+2. **Share** You should get prompted to share your information. Hit Share now. If you do not please contact admin or media director. 
+   ![](img/2024-08-25-09-26-46.png)
+3. **Select** Check your name, profile photo, address and phone number. 
+   > Note: This list is only shared to church members and is manually maintained by one of our teams.
+   ![](img/2024-08-25-09-28-01.png)
+4. **Share** Press Share to publish your directory information to the church family. 
+   ![](img/2024-08-25-09-29-36.png)
+5. **Published** Your directory information is now published with other members of the church. 
+   ![](img/2024-08-25-09-31-31.png)
